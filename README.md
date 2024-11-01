@@ -10,6 +10,6 @@ I'm best reached via discord 👾 (#jjohann). I'm always open to interesting con
 
 ---
 
-![aethnae's GIF](https://imgur.com/gallery/its-raining-pixels-9Nr7rwe)
+![aethnae's GIF](https://openseauserdata.com/files/37ce95619442dd6f4c657d1fe6752c5b.gif)
 
 ----
