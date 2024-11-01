@@ -12,5 +12,6 @@ I'm best reached via discord 👾 (#jjohann). I'm always open to interesting con
 
 ![aethnae's Stats](https://github-readme-stats.vercel.app/api?username=aethnae&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 ![aethnae's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aethnae&theme=prussian&hide_border=true)
+![aethnae's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aethnae&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ----
