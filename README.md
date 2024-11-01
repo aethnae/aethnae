@@ -10,7 +10,7 @@ I'm best reached via discord 👾 (#jjohann). I'm always open to interesting con
 
 ---
 
-![aethnae's GIF](https://gifs.alphacoders.com/gifs/view/220233)
+![aethnae's GIF](https://imgur.com/gallery/its-raining-pixels-9Nr7rwe)
 ![aethnae's Stats](https://github-readme-stats.vercel.app/api?username=aethnae&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
 
