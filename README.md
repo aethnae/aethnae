@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Johann 👋
 
-<!--
-**aethnae/aethnae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and photographer from Berlin, Germany 🐻. I spend a lot of time with reading and [photography 📸](https://www.instagram.com/johann.klf/).
 
-Here are some ideas to get you started:
+- 🎓 I currently study Mathematics with a minor in Computer Science at [TU Berlin](https://www.tu.berlin/en/?ddaysbb13=)
+- 🔭 My biggest interest lies in probability theory, especially machine learning theory.
+- 🎥 I also do a lot of photography, especially street scenes, as a hobby. I also own a developing lab, so feel free to reach out for prints / shootings!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm best reached via discord 👾 (#jjohann). I'm always open to interesting conversations and collaboration.
+
+---
+
+![aethnae's Stats](https://github-readme-stats.vercel.app/api?username=aethnae&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![aethnae's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aethnae&theme=prussian&hide_border=true)
+
+----
