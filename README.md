@@ -9,5 +9,3 @@ I'm a student and photographer from Berlin, Germany 🐻. I spend a lot of time 
 I'm best reached via discord 👾 (#jjohann). I'm always open to interesting conversations and collaboration.
 
 ![aethnae's GIF](https://openseauserdata.com/files/37ce95619442dd6f4c657d1fe6752c5b.gif)
-
-----
