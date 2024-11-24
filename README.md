@@ -6,6 +6,6 @@ I'm a student and photographer from Berlin, Germany 🐻. I spend a lot of time 
 - 🔭 My biggest interest lies in probability theory, especially machine learning theory.
 - 🎥 I also do a lot of photography, especially street scenes, as a hobby. I also own a developing lab, so feel free to reach out for prints / shootings!
 
-I'm best reached via discord 👾 (#jjohann). I'm always open to interesting conversations and collaboration.
+I'm best reached via discord 👾 (#jjohann).
 
 ![aethnae's GIF](https://openseauserdata.com/files/37ce95619442dd6f4c657d1fe6752c5b.gif)
